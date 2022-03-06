@@ -1,6 +1,6 @@
 # Hangman game
 ## This is just the project for MIT "Introduction to Computation and Programming with Python Course"#
-
+# Let's add a new feature.#
 
 import random
 
