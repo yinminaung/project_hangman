@@ -1,4 +1,5 @@
 # Hangman game
+# This is just the project for MIT "Introduction to Computation and Programming with Python Course"
 
 import random
 
